@@ -4,7 +4,7 @@ First, download all files in this folder. The main code to run is input_RBC.m. I
 
 
 Datasets:
-To run the codes, you will need to download the following datasets from https://doi.org/10.5281/zenodo.15832022
+To run the codes, you will need to download the following datasets from https://doi.org/10.5281/zenodo.15832022, 
 RBC_POD.mat, RBC_train.mat, and RBC_test.mat
 
 License:
