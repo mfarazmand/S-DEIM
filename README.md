@@ -12,7 +12,7 @@ RBC_POD.mat, RBC_train.mat, and RBC_test.mat
 
 # License:
 To use these codes in your research, see the license. If you use this code in any way, please cite the following paper:
-"State Estimation Using Sparse DEIM and Recurrent Neural Networks" by M. Farazmand
+M. Farazmand; State estimation using sparse DEIM and recurrent neural networks. Proc. A 1 March 2026; 482 (2334): 20250591. https://doi.org/10.1098/rspa.2025.0591
 
 # Funding:
 This work was supported by the National Science Foundation, the Algorithms for Threat Detection (ATD) program, through the award DMS-2220548.
