@@ -1,5 +1,6 @@
 # Description
-This repository contains the code for reproducing the results (third example) of the following manuscript: "State Estimation Using Sparse DEIM and Recurrent Neural Networks" by M. Farazmand. This paper must be appropriately cited if the data and/or code is used.
+This repository contains the code for reproducing the results (third example) of the following paper: 
+M. Farazmand; State estimation using sparse DEIM and recurrent neural networks. Proc. A 1 March 2026; 482 (2334): 20250591. https://doi.org/10.1098/rspa.2025.0591
 
 
 First, download all files in this folder. The main code to run is input_RBC.m. It loads three data sets: RBC_POD.mat, RBC_train.mat, and RBC_test.mat. These data sets correspond to a direct numerical simulation of the Rayleigh-Benard convection. 
